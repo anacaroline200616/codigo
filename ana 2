@@ -1,19 +1,30 @@
 body {
-      backgraund: #CCCCCC
-}
+      
+ }
 
+ #banner {
+  width:100%;
+ }
+
+  principal{
  h1 {
+       color: #FF0000;
    style- "text- aling: center:"
- p {
-    
-}
-  text- aling: center;
+ }
 
+ p {
+ text- aling: center;
+ }
  }
  #missão {
         style- fant-sinze= 20px
-}
+ }
 
  em strong {
-
            color: #FF0000;
+ }          
+
+.itens {
+       font-size: italic;
+}
+
