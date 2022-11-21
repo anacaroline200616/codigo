@@ -8,14 +8,17 @@ body {
 
   principal{
  h1 {
+  padding: 30px;     
        color: #FF0000;
    style- "text- aling: center:"
  }
+  text- aling: center;
+}
 
  p {
  text- aling: center;
  }
- }
+ 
  #missão {
         style- fant-sinze= 20px
  }
@@ -26,5 +29,26 @@ body {
 
 .itens {
        font-size: italic;
+ }
+
+ .beneficios {
+ background: #FFFFFF
+ padding: 20px
+ }
+
+h2 {
+    text- aling: center;
+ }
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: right: 15%;
+.imagembenecifios {
+     width: 50%;
 }
+
+
+
+
 
